@@ -10,7 +10,8 @@ Their revenue management team had decided to hire a 3rd party service provider t
 Load the data into power BI from MS Excel.
 # Data Transformation :-
 Data Transformation Using Power Query .
-<br> photo
+![capture_250702_231555](https://github.com/user-attachments/assets/e40817b6-ea7f-4374-9ec5-921cb92af86a)
+
 # Data Analysis Expression :
 using DAX created new columns <br>
 In the dim_date data table,Created two new columns "wn" and "day type" using the following formulas-<br>
