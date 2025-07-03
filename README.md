@@ -10,7 +10,7 @@ Their revenue management team had decided to hire a 3rd party service provider t
 Load the data into power BI from MS Excel.
 # Data Transformation :-
 Data Transformation Using Power Query .
-![capture_250702_231555](https://github.com/user-attachments/assets/e40817b6-ea7f-4374-9ec5-921cb92af86a)
+
 
 # Data Analysis Expression :
 using DAX created new columns <br>
@@ -114,6 +114,6 @@ ADR - Average Daily Rate <br>
 DBRN - Daily Booked Room Nights <br>
 DURN- Daily Utilized Room Nights
 # Data Modelling : 
-<br> photo
+![capture_250702_231555](https://github.com/user-attachments/assets/e40817b6-ea7f-4374-9ec5-921cb92af86a)
 # DashBoard Snapshot :-
 <br> photo
