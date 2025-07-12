@@ -10,6 +10,7 @@ Their revenue management team had decided to hire a 3rd party service provider t
 Load the data into power BI from MS Excel.
 # Data Transformation :-
 Data Transformation Using Power Query .
+<img width="1234" height="638" alt="image" src="https://github.com/user-attachments/assets/6ab39f2f-4d4d-4374-8f12-1c42c13e7b41" />
 
 
 # Data Analysis Expression :
@@ -116,4 +117,7 @@ DURN- Daily Utilized Room Nights
 # Data Modelling : 
 ![capture_250702_231555](https://github.com/user-attachments/assets/e40817b6-ea7f-4374-9ec5-921cb92af86a)
 # DashBoard Snapshot :-
-<br> photo
+
+<img width="1101" height="658" alt="capture_250708_220317" src="https://github.com/user-attachments/assets/35bafe29-ee3c-4791-af05-7b508f1c72c7" />
+<img width="1306" height="587" alt="capture_250708_220354" src="https://github.com/user-attachments/assets/0b0a0273-586d-4807-95d6-85ec1b63a657" />
+<img width="1360" height="633" alt="capture_250708_220417" src="https://github.com/user-attachments/assets/d0b25df6-c4d3-47d1-869c-5ab589243961" />
