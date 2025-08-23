@@ -18,7 +18,7 @@ using DAX created new columns <br>
 In the dim_date data table,Created two new columns "wn" and "day type" using the following formulas-<br>
 Wn =
 <br>
-WEEKNUM(dim_date[date]) <br>
+WEEKNUM(dim_date[date]) <br>    
 day type = 
  
  Var wkd = WEEKDAY(dim_date[date],1)
